@@ -9,16 +9,6 @@ User can manage posts and can do comment on post
 - MongoDB,
 - Mongoose
 
-## Prerequisites
-
-Outline what software and dependencies need to be installed before setting up and running your project. For example:
-
-- Node.js (version X.X.X or higher)
-
-## Getting Started
-
-Provide step-by-step instructions on how to set up and run your project locally. Include any necessary commands or configuration steps.
-
 ### Installation
 
 1. Clone the repository
@@ -48,6 +38,3 @@ Provide step-by-step instructions on how to set up and run your project locally.
 ```bash
  npm run dev
 ```
-
-Project Structure
-Describe the organization and structure of your project’s directories and important files. Provide a brief explanation of each major directory, such as:
