@@ -13,12 +13,12 @@ User can manage posts and can do comment on post
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your_username/your_project.git
+   git clone https://github.com/naeem123650/user-post-comment-node-express-mongoose-mongodb.git
    ```
 2. Navigate to the project directory
 
    ```bash
-   cd your_project
+   cd user-post-comment-node-express-mongoose-mongodb
    ```
 
 3. Install dependencies
