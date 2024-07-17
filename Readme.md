@@ -1,6 +1,6 @@
-# Project Title
+# User post and comment management.
 
-User post and comment management.
+User can manage posts and can do comment on post
 
 ## Technologies Used
 
@@ -51,21 +51,3 @@ Provide step-by-step instructions on how to set up and run your project locally.
 
 Project Structure
 Describe the organization and structure of your project’s directories and important files. Provide a brief explanation of each major directory, such as:
-
-### Project Structure
-
-├── config/
-│ └── config.js
-├── controllers/
-│ ├── userController.js
-│ └── ...
-├── models/
-│ ├── user.js
-│ └── ...
-├── routes/
-│ ├── apiRoutes.js
-│ └── ...
-├── .env.example
-├── package.json
-├── server.js
-└── README.md
