@@ -33,6 +33,11 @@ User can manage posts and can do comment on post
 
    Open .env file and update the following variables according to your local setup:
 
+   ```bash
+   PORT=3000
+   MONGODB_URI=mongodb://localhost:27017/your_database
+   ```
+
 ### Running the Application
 
 ```bash
